@@ -1,4 +1,4 @@
-var topic = "CSS";
+var topic = "Hello";
 
 if (topic === 'HTML') {
   console.log("Let's study HTML!");
