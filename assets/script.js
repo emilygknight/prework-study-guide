@@ -6,7 +6,7 @@ function listTopics() {
 }
 }
 
-function selectTopics(0) {
+function selectTopics() {
 if (topics(0) === 'HTML') {
   console.log("Let's study HTML!");
 } else if (topics(0) === 'CSS') {
