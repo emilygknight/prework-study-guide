@@ -20,4 +20,4 @@ if (topics === 'HTML') {
 }
 }
 listTopics()
-selectTopics()
+selectTopics(0)
